@@ -17,5 +17,5 @@ Sistem Computer Vision berbasis *deep learning* untuk mendeteksi, melacak, dan m
 ## 🚀 Cara Menjalankan Proyek
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/username-kamu/vehicle-counter-cv.git](https://github.com/username-kamu/vehicle-counter-cv.git)
+   git clone https://github.com/username-kamu/vehicle-counter-cv.git
    cd vehicle-counter-cv
